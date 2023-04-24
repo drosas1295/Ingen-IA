@@ -16,3 +16,5 @@ import pandas as pd
 df = pd.read_csv('train.csv')
 df
 ```
+VIDEO ENTREGA 1 
+https://www.youtube.com/watch?v=PQdGbiXTHUs
